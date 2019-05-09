@@ -1,8 +1,8 @@
-#kafka_project_habr
+# kafka_project_habr
 
 The example of usage Spark Streaming with Apache Kafka. 
 
-####Execution:
+#### Execution:
 
 ```console
 spark-submit \
